@@ -161,7 +161,6 @@ img {
     align-items: center;
     margin-top: 2rem;
     margin-bottom: 2rem;
-   /*  color: black; */
 }
 
 .login_check-input {
@@ -221,7 +220,7 @@ img {
     color: var(--first-color);
     text-decoration: none;
 }
-/* 
+
 @media screen and (min-width: 360px) {
     .login_buttons {
         flex-direction: column;
@@ -300,7 +299,7 @@ img {
         border: 2.5px solid var(--first-color);
     }
 }
- */
+
 
 
     
